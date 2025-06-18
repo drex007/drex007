@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 <!--
-**drex007/drex007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**drex007/drex007** is a fullstack web2/web3 developer and have buolt project being used by 1million+ users.
+
+My technologies includes python,javascript,django,django rest framework, fastapi, typescript, react js,solidity,node js, flutter.
+
+Im also interested in building the next unicorn startup in africa, I mint prolly be the nexg Elon😂😂.
+
+✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
