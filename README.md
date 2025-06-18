@@ -1,9 +1,10 @@
 ## Hi there 👋
 Im a fullstack web2/web3 developer and have built project being used by 1million+ users.
 
-My technologies includes python,javascript,django,django rest framework, fastapi, typescript, react js,solidity,node js, flutter.
+My technologies includes python,javascript,django,django rest framework,fastapi, typescript,react js,solidity,node js, flutter.
 
-Im also interested in building the next unicorn startup in africa, I  prolly might be the next Elon😂😂.
+I'm also interested in meeting like minds, building the next unicorn startup in africa, I  prolly might be the next Elon 😂😂.
+
 
 <!--
 **drex007/drex007** 
